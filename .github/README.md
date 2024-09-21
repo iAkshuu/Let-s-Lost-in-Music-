@@ -51,8 +51,7 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
+ [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Aarav Arora](https://github.com/axrav)
 
 
