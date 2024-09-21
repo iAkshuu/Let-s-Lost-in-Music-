@@ -49,10 +49,6 @@ Together, we can make **YukkiMusicBot** better!
 
 Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
 
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Aarav Arora](https://github.com/axrav)
 
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
